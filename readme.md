@@ -10,3 +10,6 @@ http://docs.python-guide.org/en/latest/dev/virtualenvs/
 4. Open entertainment_center.py from python idle and press f5 on a pc or function f5 if you're on a mac.
 
 Enjoy!
+
+Live version:
+ https://apk29.github.io/moviePreviews/
